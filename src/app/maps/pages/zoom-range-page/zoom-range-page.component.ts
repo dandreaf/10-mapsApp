@@ -2,7 +2,7 @@ import { AfterViewInit, Component, ElementRef, OnDestroy, OnInit, ViewChild } fr
 
 import { Map, MapStyle, LngLat } from '@maptiler/sdk';
 
-import '@maptiler/sdk/dist/maptiler-sdk.css';
+// import '@maptiler/sdk/dist/maptiler-sdk.css';
 
 @Component({
   selector: 'maps-range-zoom-page',

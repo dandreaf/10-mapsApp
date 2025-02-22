@@ -2,7 +2,7 @@ import { AfterViewInit, Component, ElementRef, OnDestroy, OnInit, ViewChild } fr
 
 import { Map, MapStyle, LngLat, Marker } from '@maptiler/sdk';
 
-import '@maptiler/sdk/dist/maptiler-sdk.css';
+// import '@maptiler/sdk/dist/maptiler-sdk.css';
 
 interface MarkerAndColor {
   color: string;

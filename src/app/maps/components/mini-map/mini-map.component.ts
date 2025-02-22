@@ -2,7 +2,7 @@ import { Component, Input, AfterViewInit, ViewChild, ElementRef } from '@angular
 
 import { Map, MapStyle, Marker } from '@maptiler/sdk';
 
-import '@maptiler/sdk/dist/maptiler-sdk.css';
+//import '@maptiler/sdk/dist/maptiler-sdk.css';
 
 @Component({
   selector: 'map-mini-map',
